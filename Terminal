@@ -1,0 +1,16 @@
+npm create vite@latest calculadora
+cd calculadora
+npm install
+npm run dev
+
+
+
+
+npm create vite@latest calculadora
+
+
+cd calculadora
+npm install
+
+
+http://localhost:5174/
